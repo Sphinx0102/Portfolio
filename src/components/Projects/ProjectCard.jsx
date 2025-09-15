@@ -10,9 +10,14 @@ const ProjectCard = ({ project }) => {
       viewport={{ once: true }}
       className="bg-slate-900 rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow flex flex-col h-full border border-console-orange"
     >
-      <div className="h-48 bg-gray-300 flex items-center justify-center text-gray-600">
-        🖼️ Preview
+      <div className="h-48 w-full overflow-hidden">
+        <img
+          src={project.image}
+          alt={project.title}
+          className="w-full h-full object-cover"
+        />
       </div>
+
 
       <div className="flex flex-col flex-1 p-6">
         <h3 className="text-xl font-semibold mb-2 text-console-green">

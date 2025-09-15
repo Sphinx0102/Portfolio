@@ -1,35 +1,64 @@
 [
   {
     "id": 1,
-    "title": "E-commerce React",
-    "description": "Full online store with shopping cart and payment gateway",
-    "image": "/assets/projects/ecommerce.jpg",
+    "title": "Snake-C Video Game",
+    "description": "Classic Snake game implemented in C",
+    "image": "/assets/projects/SnakeC.jpg",
     "technologies": [
-      { "name": "React" },
-      { "name": "Node.js" },
-      { "name": "MongoDB" },
-      { "name": "Stripe" }
+      { "name": "C" },
+      { "name": "CMD" }
     ],
-    "githubUrl": "https://github.com/tu-usuario/ecommerce",
-    "liveUrl": "https://ecommerce-demo.vercel.app",
-    "featured": true,
-    "status": "completed",
-    "createdAt": "2024-01-15"
+    "githubUrl": "https://github.com/Sphinx0102/Snake-C",
+    "featured": true
   },
   {
     "id": 2,
     "title": "Dashboard Analytics",
     "description": "Control panel with real-time charts and metrics",
-    "image": "/assets/projects/dashboard.jpg",
+    "image": "/assets/projects/DataAnaliticKPIs.jpg",
     "technologies": [
-      { "name": "Next.js" },
-      { "name": "TypeScript" },
-      { "name": "Chart.js" }
+      { "name": "React.js" },
+      { "name": "C#" },
+      { "name": "JavaScript" }
     ],
-    "githubUrl": "https://github.com/tu-usuario/dashboard",
-    "liveUrl": "https://dashboard-demo.vercel.app",
-    "featured": true,
-    "status": "completed",
-    "createdAt": "2024-02-20"
+    "githubUrl": "https://github.com/Sphinx0102/DashboardAnalytics",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Harry Potter Wiki",
+    "description": "Wiki about the world of Harry Potter",
+    "image": "/assets/projects/HPWiki.jpg",
+    "technologies": [
+      { "name": "JavaScript" },
+      { "name": "HTML" },
+      { "name": "CSS" }
+    ],
+    "githubUrl": "https://github.com/Sphinx0102/JavaScriptCoderHouse/tree/main/EntregaFinal/HarryPotterInteractive",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Spiral Helix",
+    "description": "Visualization of a spiral helix with animation",
+    "image": "/assets/projects/Spiral.jpg",
+    "technologies": [
+      { "name": "Python" }
+    ],
+    "githubUrl": "https://github.com/Sphinx0102/Spiral-Helix",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "API Store",
+    "description": "API for managing products in a store",
+    "image": "/assets/projects/ApiStore.jpg",
+    "technologies": [
+      { "name": "Java" },
+      { "name": "Spring Boot" },
+      { "name": "PostgreSQL" }
+    ],
+    "githubUrl": "https://github.com/Sphinx0102/JavaCoderHouse/tree/master/Entrega%20Final",
+    "featured": true
   }
 ]

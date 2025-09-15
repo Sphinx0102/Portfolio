@@ -1,34 +1,63 @@
 [{
       "id": 1,
-      "title": "E-commerce React",
-      "description": "Tienda online completa con carrito de compras y pasarela de pagos",
-      "image": "/assets/projects/ecommerce.jpg",
+      "title": "VideoJuego Snake-C",
+      "description": "Clasico juego de Snake implementado en C",
+      "image": "/assets/projects/SnakeC.jpg",
       "technologies": [
-        { "name": "React", "color": "#61DAFB" },
-        { "name": "Node.js", "color": "#339933" },
-        { "name": "MongoDB", "color": "#47A248" },
-        { "name": "Stripe", "color": "#635BFF" }
+        { "name": "C"},
+        { "name": "CMD"}
       ],
-      "githubUrl": "https://github.com/tu-usuario/ecommerce",
-      "liveUrl": "https://ecommerce-demo.vercel.app",
-      "featured": true,
-      "status": "completed",
-      "createdAt": "2024-01-15"
+      "githubUrl": "https://github.com/Sphinx0102/Snake-C",
+      "featured": true
     },
     {
       "id": 2,
       "title": "Dashboard Analytics",
       "description": "Panel de control con gráficos en tiempo real y métricas",
-      "image": "/assets/projects/dashboard.jpg",
+      "image": "/assets/projects/DataAnaliticKPIs.jpg",
       "technologies": [
-        { "name": "Next.js", "color": "#000000" },
-        { "name": "TypeScript", "color": "#3178C6" },
-        { "name": "Chart.js", "color": "#FF6384" }
+        { "name": "React.js" },
+        { "name": "C#" },
+        { "name": "JavaScript" }
       ],
-      "githubUrl": "https://github.com/tu-usuario/dashboard",
-      "liveUrl": "https://dashboard-demo.vercel.app",
-      "featured": true,
-      "status": "completed",
-      "createdAt": "2024-02-20"
+      "githubUrl": "https://github.com/Sphinx0102/DashboardAnalytics",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter Wiki",
+      "description": "Wiki sobre el mundo de Harry Potter",
+      "image": "/assets/projects/HPWiki.jpg",
+      "technologies": [
+        { "name": "JavaScript" },
+        { "name": "HTML" },
+        { "name": "CSS" }
+      ],
+      "githubUrl": "https://github.com/Sphinx0102/JavaScriptCoderHouse/tree/main/EntregaFinal/HarryPotterInteractive",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Spiral Helix",
+      "description": "Visualización de una hélice en espiral con animación",
+      "image": "/assets/projects/Spiral.jpg",
+      "technologies": [
+        { "name": "Python" }
+      ],
+      "githubUrl": "https://github.com/Sphinx0102/Spiral-Helix",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "title": "Api Store",
+      "description": "API para la gestión de productos en una tienda",
+      "image": "/assets/projects/ApiStore.jpg",
+      "technologies": [
+        { "name": "Java" },
+        { "name": "Spring Boot" },
+        { "name": "PostgreSQL" }
+      ],
+      "githubUrl": "https://github.com/Sphinx0102/JavaCoderHouse/tree/master/Entrega%20Final",
+      "featured": true
     }
 ]
