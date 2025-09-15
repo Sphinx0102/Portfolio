@@ -1,0 +1,14 @@
+{
+  "name": "Sebastian Rosales",
+  "title": "Full Stack Developer",
+  "description": "Desarrollador apasionado por crear soluciones innovadoras con tecnologías modernas.",
+  "email": "leo.sebas.lr@gmail.com",
+  "location": "San Juan, Argentina",
+  "social": {
+    "github": "https://github.com/Sphinx0102",
+    "linkedin": "https://linkedin.com/in/sebastian-rosales-8b173a203"
+  },
+  "resume": "/assets/files/CV_-_Leonardo_Rosales.pdf",
+  "image": "/assets/images/Profile.jpg",
+  "about":"Soy desarrollador de software con muchas ganas de aprender y de crear cosas que realmente faciliten la vida de las personas. Me apasiona la tecnología y siempre estoy explorando nuevas herramientas, lenguajes y metodologías para mantenerme actualizado y seguir creciendo profesionalmente.          Más allá del trabajo, soy un apasionado de los videojuegos, las películas y series, y disfruto de pasar tiempo con amigos y familia compartiendo un buen mate. Me gusta combinar la curiosidad y la creatividad en todo lo que hago, y siempre busco nuevas formas de aprender, experimentar y divertirme mientras lo hago."
+}

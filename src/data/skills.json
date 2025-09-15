@@ -1,0 +1,37 @@
+{
+  "frontend": [
+    { "name": "React", "icon": "FaReact", "color": "#61DAFB" },
+    { "name": "Tailwind CSS", "icon": "SiTailwindcss", "color": "#06B6D4" },
+    { "name": "JavaScript", "icon": "FaJs", "color": "#F7DF1E" },
+    { "name": "TypeScript", "icon": "SiTypescript", "color": "#3178C6" },
+    { "name": "HTML5", "icon": "FaHtml5", "color": "#E34F26" },
+    { "name": "CSS3", "icon": "FaCss3Alt", "color": "#1572B6" },
+    { "name": "AngularJS", "icon": "FaAngular", "color": "#DD0031" },
+    { "name": "VueJS", "icon": "FaVuejs", "color": "#42B883" }
+  ],
+  "backend": [
+    { "name": "C#", "icon": "SiCsharp", "color": "#68217A" },
+    { "name": ".NET", "icon": "SiDotnet", "color": "#512BD4" },
+    { "name": "Node.js", "icon": "FaNode", "color": "#339933" },
+    { "name": "Express", "icon": "SiExpress", "color": "#000000" },
+    { "name": "MongoDB", "icon": "SiMongodb", "color": "#47A248" },
+    { "name": "PostgreSQL", "icon": "SiPostgresql", "color": "#336791" },
+    { "name": "SQL", "icon": "SiDatabase", "color": "#F29111" },
+    { "name": "Java", "icon": "FaJava", "color": "#007396" },
+    { "name": "Spring Boot", "icon": "SiSpringboot", "color": "#6DB33F" },
+    { "name": "Hibernate", "icon": "SiHibernate", "color": "#59666C" },
+    { "name": "Maven", "icon": "SiApachemaven", "color": "#C71A36" },
+    { "name": "Python", "icon": "FaPython", "color": "#3776AB" },
+    { "name": "C", "icon": "SiC", "color": "#A8B9CC" },
+    { "name": "C++", "icon": "SiCplusplus", "color": "#00599C" },
+    { "name": "Selenium", "icon": "SiSelenium", "color": "#43B02A" }
+  ],
+  "tools": [
+    { "name": "Git", "icon": "FaGit", "color": "#F05032" },
+    { "name": "Docker", "icon": "FaDocker", "color": "#2496ED" },
+    { "name": "VS Code", "icon": "SiVisualstudiocode", "color": "#007ACC" },
+    { "name": "Figma", "icon": "FaFigma", "color": "#F24E1E" },
+    { "name": "Trello", "icon": "SiTrello", "color": "#0052CC" },
+    { "name": "DevOps", "icon": "SiAzuredevops", "color": "#0078D7" }
+  ]
+}

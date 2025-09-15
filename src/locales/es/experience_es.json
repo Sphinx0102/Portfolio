@@ -1,0 +1,63 @@
+{
+  "sectionTitle": "Experiencia & Educación",
+  "workBtn": "Trabajo",
+  "educationBtn": "Educación",
+  "work": [
+    {
+      "title": "Semi-Senior Full Stack Developer",
+      "company": "Sistran Consultores",
+      "period": "2024 - Presente",
+      "description": "Desarrollo y mantenimiento de sistemas orientados al sector asegurador. Experiencia en la creación, personalización y soporte de herramientas de impresión de pólizas."
+    },
+    {
+      "title": "Consultor Full Stack Developer",
+      "company": "Excelencia Digital Software",
+      "period": "2023 - 2024",
+      "description": "Consultor de desarrollo de proyectos individuales y capacitación de nuevos colaboradores, contribuyendo a la transferencia de conocimientos y a la mejora continua de los equipos de trabajo."
+    },
+    {
+      "title": "Semi-Senior Full Stack Developer",
+      "company": "Excelencia Digital Software",
+      "period": "2023 - 2023",
+      "description": "Desarrollo de aplicaciones web full-stack usando C#, Jquery, Blazor y bases de datos SQL."
+    },
+    {
+      "title": "Junior Full Stack Developer",
+      "company": "Excelencia Digital Software",
+      "period": "2022 - 2023",
+      "description": "Desarrollo y mantenimiento de un sistema de gestión de historias clínicas para hospitales y clínicas. Integración de herramientas complementarias como lectores de huellas dactilares al sistema y desarrollo de un modelo predictivo con inteligencia artificial para optimizar procesos clínicos."
+    }
+  ],
+  "education": [
+    {
+      "title": "Estudiante avanzado en Ciencias de la Computación",
+      "institution": "Universidad Nacional de San Juan",
+      "period": "2019 - 2024",
+      "description": "Especialización en desarrollo de software y bases de datos."
+    },
+    {
+      "title": "Certificación Javascript",
+      "institution": "CoderHouse",
+      "period": "2023",
+      "description": "Javascript."
+    },
+    {
+      "title": "Certificación Java",
+      "institution": "CoderHouse",
+      "period": "2023",
+      "description": "Java."
+    },
+    {
+      "title": "Certificación Idioma Alemán Básico A1",
+      "institution": "UBA Idiomas",
+      "period": "2022",
+      "description": "Alemán."
+    },
+    {
+      "title": "Certificación Node.js",
+      "institution": "Udemy",
+      "period": "2022",
+      "description": "Node.js."
+    }
+  ]
+}

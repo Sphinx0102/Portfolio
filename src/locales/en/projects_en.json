@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "E-commerce React",
+    "description": "Full online store with shopping cart and payment gateway",
+    "image": "/assets/projects/ecommerce.jpg",
+    "technologies": [
+      { "name": "React" },
+      { "name": "Node.js" },
+      { "name": "MongoDB" },
+      { "name": "Stripe" }
+    ],
+    "githubUrl": "https://github.com/tu-usuario/ecommerce",
+    "liveUrl": "https://ecommerce-demo.vercel.app",
+    "featured": true,
+    "status": "completed",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "title": "Dashboard Analytics",
+    "description": "Control panel with real-time charts and metrics",
+    "image": "/assets/projects/dashboard.jpg",
+    "technologies": [
+      { "name": "Next.js" },
+      { "name": "TypeScript" },
+      { "name": "Chart.js" }
+    ],
+    "githubUrl": "https://github.com/tu-usuario/dashboard",
+    "liveUrl": "https://dashboard-demo.vercel.app",
+    "featured": true,
+    "status": "completed",
+    "createdAt": "2024-02-20"
+  }
+]

@@ -1,0 +1,34 @@
+[{
+      "id": 1,
+      "title": "E-commerce React",
+      "description": "Tienda online completa con carrito de compras y pasarela de pagos",
+      "image": "/assets/projects/ecommerce.jpg",
+      "technologies": [
+        { "name": "React", "color": "#61DAFB" },
+        { "name": "Node.js", "color": "#339933" },
+        { "name": "MongoDB", "color": "#47A248" },
+        { "name": "Stripe", "color": "#635BFF" }
+      ],
+      "githubUrl": "https://github.com/tu-usuario/ecommerce",
+      "liveUrl": "https://ecommerce-demo.vercel.app",
+      "featured": true,
+      "status": "completed",
+      "createdAt": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "title": "Dashboard Analytics",
+      "description": "Panel de control con gráficos en tiempo real y métricas",
+      "image": "/assets/projects/dashboard.jpg",
+      "technologies": [
+        { "name": "Next.js", "color": "#000000" },
+        { "name": "TypeScript", "color": "#3178C6" },
+        { "name": "Chart.js", "color": "#FF6384" }
+      ],
+      "githubUrl": "https://github.com/tu-usuario/dashboard",
+      "liveUrl": "https://dashboard-demo.vercel.app",
+      "featured": true,
+      "status": "completed",
+      "createdAt": "2024-02-20"
+    }
+]

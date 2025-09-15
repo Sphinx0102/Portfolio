@@ -1,0 +1,63 @@
+{
+  "sectionTitle": "Experience & Education",
+  "workBtn": "Work",
+  "educationBtn": "Education",
+  "work": [
+    {
+      "title": "Semi-Senior Full Stack Developer",
+      "company": "Sistran Consultores",
+      "period": "2024 - Present",
+      "description": "Development and maintenance of systems for the insurance sector. Experience in creating, customizing, and supporting policy printing tools."
+    },
+    {
+      "title": "Full Stack Developer Consultant",
+      "company": "Excelencia Digital Software",
+      "period": "2023 - 2024",
+      "description": "Consultant for individual development projects and training of new team members, contributing to knowledge transfer and continuous improvement of work teams."
+    },
+    {
+      "title": "Semi-Senior Full Stack Developer",
+      "company": "Excelencia Digital Software",
+      "period": "2023 - 2023",
+      "description": "Development of full-stack web applications using C#, JQuery, Blazor, and SQL databases."
+    },
+    {
+      "title": "Junior Full Stack Developer",
+      "company": "Excelencia Digital Software",
+      "period": "2022 - 2023",
+      "description": "Development and maintenance of a clinical record management system for hospitals and clinics. Integration of complementary tools such as fingerprint readers into the system and development of a predictive AI model to optimize clinical processes."
+    }
+  ],
+  "education": [
+    {
+      "title": "Advanced Computer Science Student",
+      "institution": "National University of San Juan",
+      "period": "2019 - 2024",
+      "description": "Specialization in software development and databases."
+    },
+    {
+      "title": "JavaScript Certification",
+      "institution": "CoderHouse",
+      "period": "2023",
+      "description": "JavaScript."
+    },
+    {
+      "title": "Java Certification",
+      "institution": "CoderHouse",
+      "period": "2023",
+      "description": "Java."
+    },
+    {
+      "title": "Basic German Language Certification A1",
+      "institution": "UBA Idiomas",
+      "period": "2022",
+      "description": "German."
+    },
+    {
+      "title": "Node.js Certification",
+      "institution": "Udemy",
+      "period": "2022",
+      "description": "Node.js."
+    }
+  ]
+}
