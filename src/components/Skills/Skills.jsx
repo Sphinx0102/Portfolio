@@ -25,7 +25,7 @@ const Skills = ({ skillsData = { frontend: [], backend: [], tools: [] }, languag
   useEffect(() => {
     const observer = new IntersectionObserver(
       ([entry]) => setIsVisible(entry.isIntersecting),
-      { threshold: 0.3 }
+      { threshold: 0.1 }
     );
     if (ref.current) observer.observe(ref.current);
     return () => ref.current && observer.unobserve(ref.current);
