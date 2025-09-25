@@ -59,5 +59,18 @@
       ],
       "githubUrl": "https://github.com/Sphinx0102/JavaCoderHouse/tree/master/Entrega%20Final",
       "featured": true
+    },
+    {
+      "id": 6,
+      "title": "Bot n8n",
+      "description": "Flujo de trabajo automatizado para el ingreso de montos en Excel",
+      "image": "/assets/projects/BotN8n.jpg",
+      "technologies": [
+        { "name": "N8N" },
+        { "name": "Telegram Bot" },
+        { "name": "Google Sheets" }
+      ],
+      "githubUrl": "https://github.com/Sphinx0102/",
+      "featured": true
     }
 ]
