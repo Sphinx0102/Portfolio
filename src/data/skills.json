@@ -32,6 +32,7 @@
     { "name": "VS Code", "icon": "SiVisualstudiocode", "color": "#007ACC" },
     { "name": "Figma", "icon": "FaFigma", "color": "#F24E1E" },
     { "name": "Trello", "icon": "SiTrello", "color": "#0052CC" },
-    { "name": "DevOps", "icon": "SiAzuredevops", "color": "#0078D7" }
+    { "name": "DevOps", "icon": "SiAzuredevops", "color": "#0078D7" },
+    { "name": "n8n", "icon": "N8nIcon", "color": "#EA4C89" }
   ]
 }

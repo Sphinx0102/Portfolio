@@ -1,4 +1,5 @@
 import React, { useRef, useState, useEffect } from "react";
+import { N8nIcon } from "@lobehub/icons";
 import { motion } from "framer-motion";
 import { 
   FaReact, FaJs, FaHtml5, FaCss3Alt, FaNode, FaGit, FaDocker, FaFigma, 
@@ -15,7 +16,7 @@ const iconMap = {
   FaAngular, FaVuejs, FaJava, FaPython,
   SiTypescript, SiTailwindcss, SiExpress, SiMongodb, SiPostgresql,
   SiVisualstudiocode, SiSpringboot, SiHibernate, SiApachemaven, SiC, SiCplusplus, SiCsharp, 
-  SiSelenium, SiTrello, SiAzuredevops, SiDotnet
+  SiSelenium, SiTrello, SiAzuredevops, SiDotnet, N8nIcon
 };
 
 const Skills = ({ skillsData = { frontend: [], backend: [], tools: [] }, language }) => {
