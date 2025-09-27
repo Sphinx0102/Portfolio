@@ -1,5 +1,6 @@
 import React, { useRef, useState, useEffect } from "react";
-import { N8nIcon } from "@lobehub/icons";
+import N8nIcon from '../../assets/icons/n8n.svg?react';
+
 import { motion } from "framer-motion";
 import { 
   FaReact, FaJs, FaHtml5, FaCss3Alt, FaNode, FaGit, FaDocker, FaFigma, 
@@ -18,6 +19,8 @@ const iconMap = {
   SiVisualstudiocode, SiSpringboot, SiHibernate, SiApachemaven, SiC, SiCplusplus, SiCsharp, 
   SiSelenium, SiTrello, SiAzuredevops, SiDotnet, N8nIcon
 };
+
+
 
 const Skills = ({ skillsData = { frontend: [], backend: [], tools: [] }, language }) => {
   const ref = useRef(null);

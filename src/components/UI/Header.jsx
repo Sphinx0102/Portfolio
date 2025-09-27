@@ -33,7 +33,7 @@ const Header = ({ activeSection, scrollToSection, language, setLanguage }) => {
         </button>
 
         <div className="absolute left-1/2 transform -translate-x-1/2 md:static md:transform-none">
-          <img src="/assets/icons/Logo.svg" alt="Logo" className="h-12 w-12" />
+          <img src="/src/assets/icons/Logo.svg" alt="Logo" className="h-12 w-12" />
         </div>
 
         <div className="hidden md:flex justify-end items-center space-x-8">
